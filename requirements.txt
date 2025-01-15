@@ -1,0 +1,7 @@
+serpapi
+langchain
+pydantic
+google-search-results
+pandas
+google-generativeai
+streamlit
